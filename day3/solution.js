@@ -1,4 +1,4 @@
-// // puzzle 3
+// puzzle 3
 const fs = require("fs");
 var input = fs.readFileSync("input.txt", "utf8");
 const regex = /mul\(\d{1,3},\d{1,3}\)/g;
